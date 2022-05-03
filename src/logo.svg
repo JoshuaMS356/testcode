@@ -1,0 +1,98 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    viewBox="0 0 56.76 60.16">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: #00f2ab;
+            }
+
+            .cls-2,
+            .cls-3,
+            .cls-4 {
+                fill: #66f7cd;
+            }
+
+            .cls-3,
+            .cls-4,
+            .cls-5,
+            .cls-7 {
+                stroke-miterlimit: 10;
+                stroke-width: 0.02px;
+            }
+
+            .cls-3 {
+                stroke: url(#linear-gradient);
+            }
+
+            .cls-4 {
+                stroke: url(#linear-gradient-2);
+            }
+
+            .cls-5 {
+                fill: url(#linear-gradient-3);
+                stroke: url(#linear-gradient-4);
+            }
+
+            .cls-6 {
+                fill: url(#linear-gradient-5);
+            }
+
+            .cls-7 {
+                fill: url(#linear-gradient-6);
+                stroke: url(#linear-gradient-7);
+            }
+        </style>
+        <linearGradient id="linear-gradient" x1="-38964.49" y1="66.17" x2="39042.4" y2="66.17"
+            gradientTransform="matrix(0.01, 0, 0, -0.01, -626.21, -242.95)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#f7931e" />
+            <stop offset="1" stop-color="#fef8a6" />
+        </linearGradient>
+        <linearGradient id="linear-gradient-2" x1="-38951.93" y1="66.17" x2="39054.96" y2="66.17"
+            gradientTransform="translate(729.72 -242.95) rotate(180) scale(0.01)" xlink:href="#linear-gradient" />
+        <linearGradient id="linear-gradient-3" x1="39.38" y1="37" x2="49.11" y2="37" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#fff" />
+            <stop offset="1" stop-color="#00f2ab" />
+        </linearGradient>
+        <linearGradient id="linear-gradient-4" x1="-38964.08" y1="37" x2="39042.82" y2="37"
+            gradientTransform="translate(-626.21 361.36) scale(0.01)" xlink:href="#linear-gradient" />
+        <linearGradient id="linear-gradient-5" x1="45.83" y1="36.61" x2="58.05" y2="36.61"
+            xlink:href="#linear-gradient-3" />
+        <linearGradient id="linear-gradient-6" x1="51.94" y1="37" x2="61.67" y2="37" xlink:href="#linear-gradient-3" />
+        <linearGradient id="linear-gradient-7" x1="22669.52" y1="-16319" x2="-55337.38" y2="-16319"
+            gradientTransform="matrix(-0.01, 0, 0, 0.01, 729.72, 361.36)" xlink:href="#linear-gradient" />
+    </defs>
+    <path id="b_oval_1" data-name="b oval 1" class="cls-1"
+        d="M78.38,35.08c-.07,20.23-50.46,20.23-50.52,0S78.31,14.86,78.38,35.08Z" transform="translate(-21.62 -19.91)" />
+    <path id="b_oval_2" data-name="b oval 2" class="cls-1"
+        d="M77.26,64.91c-.07,20.22-50.45,20.22-50.51,0S77.2,44.68,77.26,64.91Z" transform="translate(-21.62 -19.91)" />
+    <path id="vertical_rectangle_b" data-name="vertical rectangle b" class="cls-1" d="M38.14,19.91H21.62V79.57H38.14Z"
+        transform="translate(-21.62 -19.91)" />
+    <g id="m">
+        <path id="left_up_m" data-name="left up m" class="cls-2"
+            d="M55,66.19l-7.59-5.71H42.81s-.12,0,4.82.71A19.56,19.56,0,0,1,45,60.61C45.78,61,47.59,83,55,66.19Z"
+            transform="translate(-21.62 -19.91)" />
+        <path id="left_down_m" data-name="left down m" class="cls-3"
+            d="M47.57,66.61l1-3.26h0c.52-1.14-.83-2.25-5.62-2.8l-.78,2c-.52,1.23-2.74,7.09-3.22,8.34l6.77.89Z"
+            transform="translate(-21.62 -19.91)" />
+    </g>
+    <path id="left_up_m-2" data-name="left up m" class="cls-2"
+        d="M45.41,66.26,53,60.55h4.63s.12,0-4.82.7a17.81,17.81,0,0,0,2.64-.57c-.8.34-2.61,22.36-10.05,5.58Z"
+        transform="translate(-21.62 -19.91)" />
+    <path id="left_down_m-2" data-name="left down m" class="cls-4"
+        d="M52.65,66.61l-1-3.26h0c-.52-1.14.83-2.25,5.62-2.8l.77,2c.52,1.23,2.75,7.09,3.23,8.34l-6.77.89Z"
+        transform="translate(-21.62 -19.91)" />
+    <g id="m-2" data-name="m">
+        <path id="left_up_m-3" data-name="left up m" class="cls-2"
+            d="M55.44,37l-7.59,5.71H43.22s-.12,0,4.82-.7a17.81,17.81,0,0,0-2.64.57c.8-.34,2.6-22.36,10-5.58Z"
+            transform="translate(-21.62 -19.91)" />
+        <path id="left_down_m-3" data-name="left down m" class="cls-5"
+            d="M48,36.55l1,3.26h0c.53,1.15-.83,2.26-5.61,2.81l-.78-2c-.52-1.24-2.74-7.1-3.23-8.35l6.78-.88Z"
+            transform="translate(-21.62 -19.91)" />
+    </g>
+    <path id="left_up_m-4" data-name="left up m" class="cls-6"
+        d="M45.83,36.9l7.59,5.72h4.63s.12.05-4.82-.71a18.13,18.13,0,0,1,2.65.58c-.8-.35-2.61-22.37-10.05-5.59Z"
+        transform="translate(-21.62 -19.91)" />
+    <path id="left_down_m-4" data-name="left down m" class="cls-7"
+        d="M53.07,36.55l-1,3.26h0c-.53,1.15.82,2.26,5.61,2.81l.78-2c.52-1.24,2.74-7.1,3.23-8.35l-6.78-.88Z"
+        transform="translate(-21.62 -19.91)" />
+</svg>
