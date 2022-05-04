@@ -30,7 +30,7 @@
   },
   "scripts": {
     "start": "craco start",
-    "build": "set \"CI=false\" && craco build",
+    "build": "set \"CI=false\" && craco build"
     
   },
   "eslintConfig": {
